@@ -12,4 +12,8 @@ life
 good
 oraclegit 
 my god
+<<<<<<< HEAD
 game is goodhhh
+=======
+game is good or bad
+>>>>>>> feature1
