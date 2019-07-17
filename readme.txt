@@ -12,4 +12,4 @@ life
 good
 oraclegit 
 my god
-game is good
+game is good or bad
