@@ -1,5 +1,8 @@
 learn git
  github
-python learning + C# delete
+python learning + C# deletegit 
 C++ learning
 SQL learning
+class music 
+download
+difficult learning 
