@@ -6,3 +6,5 @@ SQL learning
 class music 
 download
 difficult learning 
+give me a fire
+help learninggit 
