@@ -9,3 +9,6 @@ difficult learning
 give me a fire
 help learninggit git 
 life
+good
+oraclegit 
+my god
